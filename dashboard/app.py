@@ -14,7 +14,6 @@ conn = sqlite3.connect(db_path)
 
 st.title("📈 Mutual Fund Analytics Dashboard")
 
-
 # -----------------------------
 # Database Connection
 # -----------------------------
